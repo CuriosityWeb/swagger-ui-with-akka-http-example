@@ -2,7 +2,7 @@
 
 ## Configuration
 
-|  |  |
+| **Lib** | Version |
 |--|--|
 | **Scala** | 2.13.8 |
 | **Swagger UI** | 4.12.0 |
